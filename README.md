@@ -1,29 +1,29 @@
 <div align="center">
 
-<!-- Ultra-Premium Cyber/Gold Hero Section: Absolute Void & Cyber Gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:FFD700&height=360&section=header&text=A%20P%20T%20I%20T%20U%20D%20E%20%20❖%20%20M%20A%20S%20T%20E%20R%20Y&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=SHORTCUTS%20TO%20CRACK%20QUANTITATIVE%20APTITUDE&descAlignY=60&descAlign=50" width="100%" />
+<!-- Ultra-Premium Gradient Hero Section: Cyber Pink & Deep Purple -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:7928CA&height=340&section=header&text=Q%20U%20A%20N%20T%20%20❖%20%20A%20R%20S%20E%20N%20A%20L&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20100-SHORTCUT%20CODEX&descAlignY=60&descAlign=50" width="100%" />
 
-<!-- Advanced Command Line Typing Animation (Share Tech Mono for elite hacker feel) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+100+Proven+Shortcuts,+Formulas,+%26+Tricks;►+Crack+CAT,+UPSC,+SSC,+Bank+%26+Campus+Exams;►+Master+Speed+Math+%26+Complex+Word+Problems;►+Elevate+Your+Problem-Solving+Arsenal&center=true&width=800&height=80&color=FFD700&vCenter=true&size=21&font=Share+Tech+Mono&weight=600" />
+<!-- Sleek Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Bypass+the+Algebra.+Deploy+Pure+Logic.;►+100+Lightning-Fast+Mathematical+Shortcuts;►+Engineered+for+Tier-1+Competitive+Exams;►+Maximize+Accuracy.+Minimize+Execution+Time.&center=true&width=800&height=70&color=FF007F&vCenter=true&size=21&font=Space+Grotesk&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-050505?style=for-the-badge&logo=github&logoColor=FFD700" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Tricks-050505?style=for-the-badge&logo=bookstack&logoColor=FFD700" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Competitive_Exams-050505?style=for-the-badge&logo=target&logoColor=FFD700" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_To_Deploy-FFD700?style=for-the-badge&logo=rocket&logoColor=050505" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-000000?style=for-the-badge&logo=github&logoColor=FF007F" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Tricks-000000?style=for-the-badge&logo=bookstack&logoColor=7928CA" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Competitive_Exams-000000?style=for-the-badge&logo=target&logoColor=FF007F" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_To_Deploy-7928CA?style=for-the-badge&logo=rocket&logoColor=ffffff" alt="Status">
 </p>
 
 <br>
 
 <a href="./100%20aptitude%20trick.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_APTITUDE_CODEX-050505?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_ACCESS_THE_CODEX-DOWNLOAD_MASTER_PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF007F" alt="Read PDF" width="600">
 </a>
 
 <br><br>
 
-> 🌐 **SYSTEM DIRECTIVE:** *This repository houses a high-octane collection of quantitative aptitude shortcuts designed to bridge the gap between traditional mathematics and lightning-fast execution.[cite: 487] Engineered exclusively for central government, state government, and campus recruitment exams, this codex is your ultimate problem-solving arsenal.[cite: 487]*
+> ⚡ **EXECUTIVE OVERVIEW:** *In competitive examinations, time is your most critical variable. This repository provides a highly condensed, tactical codex of 100 quantitative aptitude shortcuts designed to replace 5-minute algebraic calculations with 15-second logical deductions.[cite: 487] Engineered for absolute precision and speed across all major central, state, and campus recruitment exams.[cite: 487]*
 
 </div>
 
@@ -35,52 +35,58 @@
 
 <h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 &nbsp; 𝗠 𝗔 𝗧 𝗥 𝗜 𝗫 ✦</h2>
 
-<p align="center"><i>A surgical breakdown of the quantitative ecosystem, categorized by computational domain.[cite: 488]</i></p>
+<p align="center"><i>A high-density breakdown of the computational domains covered within the payload.[cite: 488]</i></p>
 
 <br>
 
-<table align="center" width="98%">
-  <tr align="left">
-    <th width="12%"><code>MODULE</code></th>
-    <th width="28%"><code>SYSTEM DOMAIN</code></th>
-    <th width="12%" align="center"><code>SPEED</code></th>
-    <th width="48%"><code>CRITICAL CONCEPTS INJECTED</code></th>
+<table align="center" width="95%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.icons8.com/fluency-systems-regular/64/FF007F/math.png" width="55"/><br>
+      <h3>Core Arithmetic & Commerce</h3>
+      <p align="left">
+        • <b>Ratio & Proportion:</b> Direct/Inverse mapping.[cite: 488]<br>
+        • <b>Partnership & Mixtures:</b> Allegation rules.[cite: 488]<br>
+        • <b>Percentages:</b> Successive change formulas.[cite: 488]<br>
+        • <b>Financials:</b> Profit, Loss, Discount, & Interest.[cite: 488]
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.icons8.com/fluency-systems-regular/64/7928CA/speed.png" width="55"/><br>
+      <h3>Kinetics & Operations</h3>
+      <p align="left">
+        • <b>Motion Dynamics:</b> Time, Speed, and Distance.[cite: 488]<br>
+        • <b>Relative Speed:</b> Train crossings & circular tracks.[cite: 488]<br>
+        • <b>Fluid Dynamics:</b> Boats and Streams mechanics.[cite: 488]<br>
+        • <b>Resource Allocation:</b> Time, Work, Pipes & Cisterns.[cite: 488]
+      </p>
+    </td>
   </tr>
   <tr>
-    <td><kbd>MOD-01</kbd></td>
-    <td><b>📊 Core Arithmetic</b></td>
-    <td align="center">🟢 <code>Fast</code></td>
-    <td>Ratio and Proportion, Partnership splits, Mixtures and Allegation, and Weighted Averages.[cite: 488]</td>
-  </tr>
-  <tr>
-    <td><kbd>MOD-02</kbd></td>
-    <td><b>📈 Commercial Math</b></td>
-    <td align="center">🟢 <code>Fast</code></td>
-    <td>Percentage variations, Profit, Loss and Discount architectures, and Simple and Compound Interest protocols.[cite: 488]</td>
-  </tr>
-  <tr>
-    <td><kbd>MOD-03</kbd></td>
-    <td><b>⏱️ Kinetics & Motion</b></td>
-    <td align="center">🔴 <code>High</code></td>
-    <td>Time, Speed and Distance relations, Trains algorithms, and Boats calculations.[cite: 488]</td>
-  </tr>
-  <tr>
-    <td><kbd>MOD-04</kbd></td>
-    <td><b>🏗️ Operational Logic</b></td>
-    <td align="center">🟡 <code>Med</code></td>
-    <td>Time and Work efficiencies, Resource allocation, and Pipes and Cisterns flow mechanics.[cite: 488]</td>
-  </tr>
-  <tr>
-    <td><kbd>MOD-05</kbd></td>
-    <td><b>🔢 Advanced Math</b></td>
-    <td align="center">🔴 <code>High</code></td>
-    <td>Number System, HCF and LCM applications, Heights and Distances, and Progressions.[cite: 488]</td>
-  </tr>
-  <tr>
-    <td><kbd>MOD-06</kbd></td>
-    <td><b>🎲 Logic & Probability</b></td>
-    <td align="center">🔴 <code>High</code></td>
-    <td>Calendar alignments, Clocks angle deductions, Permutation and Combination, and Probability architectures.[cite: 488]</td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.icons8.com/fluency-systems-regular/64/7928CA/matrix.png" width="55"/><br>
+      <h3>Advanced Mathematics</h3>
+      <p align="left">
+        • <b>Number Systems:</b> Divisibility & remainder theorems.[cite: 488]<br>
+        • <b>Factoring:</b> Advanced HCF and LCM limits.[cite: 488]<br>
+        • <b>Trigonometry:</b> Heights and Distances shortcuts.[cite: 488]<br>
+        • <b>Series:</b> Arithmetic & Geometric Progressions.[cite: 488]
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.icons8.com/fluency-systems-regular/64/FF007F/dice.png" width="55"/><br>
+      <h3>Logic & Probability</h3>
+      <p align="left">
+        • <b>Chronology:</b> Calendar alignments & day mapping.[cite: 488]<br>
+        • <b>Clocks:</b> Angle deductions & overlap times.[cite: 488]<br>
+        • <b>Combinatorics:</b> Permutations & Combinations.[cite: 488]<br>
+        • <b>Statistics:</b> Event Probability architectures.[cite: 488]
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -92,15 +98,16 @@
 
 <h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗗 𝗘 𝗠 𝗢 𝗚 𝗥 𝗔 𝗣 𝗛 𝗜 𝗖 ✦</h2>
 
-<p align="center"><i>This codex is mathematically optimized for the following competitive combat zones:[cite: 487]</i></p>
+<p align="center"><i>This framework is mathematically optimized to dominate the following testing environments:[cite: 487]</i></p>
+
+<br>
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/01-IBPS_%7C_SBI_%7C_RBI_%7C_RRB-050505?style=for-the-badge&logoColor=FFD700" /> 
-<img src="https://img.shields.io/badge/02-UPSC_%7C_SSC_%7C_CBI-050505?style=for-the-badge&logoColor=FFD700" /> 
-<img src="https://img.shields.io/badge/03-CAT_%7C_MAT_%7C_XAT_%7C_SAT-050505?style=for-the-badge&logoColor=FFD700" /><br><br>
-<img src="https://img.shields.io/badge/04-GATE_%7C_GRE_%7C_GMAT-050505?style=for-the-badge&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/05-Campus_Recruitment_Tests-050505?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/BANKING-IBPS_%7C_SBI_%7C_RBI_%7C_RRB-000000?style=for-the-badge&logoColor=FF007F" /> 
+<img src="https://img.shields.io/badge/GOVERNMENT-UPSC_%7C_SSC_%7C_CBI_%7C_NTPC-000000?style=for-the-badge&logoColor=7928CA" /> <br><br>
+<img src="https://img.shields.io/badge/MANAGEMENT-CAT_%7C_MAT_%7C_XAT_%7C_GMAT-000000?style=for-the-badge&logoColor=FF007F" />
+<img src="https://img.shields.io/badge/TECHNICAL-GATE_%7C_GRE_%7C_Campus_Tests-000000?style=for-the-badge&logoColor=7928CA" />
 
 </div>
 
@@ -112,60 +119,44 @@
 
 <h2 align="center">✦ 𝗘 𝗫 𝗘 𝗖 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
 
-<p align="center"><i>Do not just memorize formulas. Deploy this 5-stage cognitive pipeline to master the underlying logic.</i></p>
-
-<br>
-
-<table align="center" width="100%">
-  <tr align="center" valign="middle">
-    <td width="20%">
-      <img src="https://img.icons8.com/nolan/96/FFD700/reading.png" width="60"/><br>
-      <b>1. INGEST</b><br>
-      <sub>Read the Concept</sub>
-    </td>
-    <td width="20%">
-      <img src="https://img.icons8.com/nolan/96/FFD700/brain.png" width="60"/><br>
-      <b>2. DECODE</b><br>
-      <sub>Understand Logic</sub>
-    </td>
-    <td width="20%">
-      <img src="https://img.icons8.com/nolan/96/FFD700/edit.png" width="60"/><br>
-      <b>3. COMPUTE</b><br>
-      <sub>Solve on Paper</sub>
-    </td>
-    <td width="20%">
-      <img src="https://img.icons8.com/nolan/96/FFD700/speed.png" width="60"/><br>
-      <b>4. OPTIMIZE</b><br>
-      <sub>Apply the Shortcut</sub>
-    </td>
-    <td width="20%">
-      <img src="https://img.icons8.com/nolan/96/FFD700/checked.png" width="60"/><br>
-      <b>5. COMMIT</b><br>
-      <sub>Lock to Memory</sub>
-    </td>
-  </tr>
-</table>
+<p align="center"><i>Deploy this 4-stage cognitive pipeline to transform these shortcuts into instinctive reflexes.</i></p>
 
 <br>
 
 <table align="center" width="90%">
   <tr>
-    <td align="center">
-      <b>💡 Pro-Tip for Competitive Excellence:</b><br><br>
-      <i>Aptitude tests are not about finding the right answer; they are about finding the right answer <b>fast</b>. Use this document to replace your 5-minute traditional algebraic methods with 15-second shortcut logic.</i>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/01-INGEST-000000?style=for-the-badge&logoColor=FF007F" /><br>
+      <b>Absorb the Concept</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/02-DECODE-000000?style=for-the-badge&logoColor=7928CA" /><br>
+      <b>Identify Variables</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/03-BYPASS-000000?style=for-the-badge&logoColor=FF007F" /><br>
+      <b>Apply Shortcut</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/04-EXECUTE-FF007F?style=for-the-badge&logoColor=000000" /><br>
+      <b>Solve in Seconds</b>
     </td>
   </tr>
 </table>
 
 <br>
 
+> **💡 Tactical Advice:** *Do not attempt to memorize formulas blindly. Understand the mathematical relationship the shortcut exploits. Once you recognize the structural pattern, you can bypass traditional multi-step algebra entirely and execute instantly.*
+
+<br>
+
 ---
 
-<!-- Ultra-Premium Footer with inverted animation -->
+<!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:050505&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:000000&height=120&section=footer" width="100%" />
   <br>
-  <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Compute /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Dominate /&gt;</code>
+  <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
-  <b>Master Your Aptitude. Clear the Cut-off.</b>
+  <b>Master Your Aptitude. Clear the Cut-off.</b><br>
 </div>
